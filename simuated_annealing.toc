@@ -1,0 +1,5 @@
+\beamer@endinputifotherversion {3.33pt}
+\beamer@sectionintoc {1}{Travelling Salesman Problem}{3}{0}{1}
+\beamer@sectionintoc {2}{Simulated Annealing}{5}{0}{2}
+\beamer@sectionintoc {3}{Problem Model}{6}{0}{3}
+\beamer@sectionintoc {4}{Conclusions}{9}{0}{4}
